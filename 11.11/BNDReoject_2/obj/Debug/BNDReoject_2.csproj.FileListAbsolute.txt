@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2_MarkupCompile.cache
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2_MarkupCompile.lref
+C:\Users\Студент\source\repos\BNDReoject_2\bin\Debug\BNDReoject_2.exe.config
+C:\Users\Студент\source\repos\BNDReoject_2\bin\Debug\BNDReoject_2.exe
+C:\Users\Студент\source\repos\BNDReoject_2\bin\Debug\BNDReoject_2.pdb
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.g.resources
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.Properties.Resources.resources
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.exe
+C:\Users\Студент\source\repos\BNDReoject_2\obj\Debug\BNDReoject_2.pdb

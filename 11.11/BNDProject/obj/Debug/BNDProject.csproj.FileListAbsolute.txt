@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\BNDProject\bin\Debug\BNDProject.exe.config
+C:\Users\Студент\source\repos\BNDProject\bin\Debug\BNDProject.exe
+C:\Users\Студент\source\repos\BNDProject\bin\Debug\BNDProject.pdb
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject_MarkupCompile.cache
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject_MarkupCompile.lref
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.g.resources
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.Properties.Resources.resources
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.exe
+C:\Users\Студент\source\repos\BNDProject\obj\Debug\BNDProject.pdb

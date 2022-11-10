@@ -1,0 +1,24 @@
+﻿<Window x:Class="BNDProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BNDProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="266*"/>
+            <RowDefinition Height="153*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="butt" Content="уравнение 1" HorizontalAlignment="Left" Margin="106,10,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" Height="50"/>
+        <Button x:Name="cnop" Content="уравнение 2" HorizontalAlignment="Left" Margin="492,0,0,0" VerticalAlignment="Top" Width="150" Height="50" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" IsCancel="True"/>
+        <Label x:Name="yraw" Content="ответ уравнния 1" HorizontalAlignment="Left" Margin="106,65,0,0" VerticalAlignment="Top" Height="35" Width="150"/>
+        <Label x:Name="yraww" Content="ответ уравнения 2" HorizontalAlignment="Left" Margin="492,65,0,0" VerticalAlignment="Top" Height="35" Width="150"/>
+        <Button x:NSame="buttt" Content="Button" HorizontalAlignment="Left" Height="50" Margin="106,148,0,0" VerticalAlignment="Top" Width="150" Click="buttt_Click"/>
+        <Button x:Name="butttt" Content="Button" HorizontalAlignment="Left" Height="50" Margin="492,148,0,0" VerticalAlignment="Top" Width="150" Click="butttt_Click"/>
+        <Label x:Name="yrawww" Content="ответ уравнния 3" HorizontalAlignment="Left" Margin="106,203,0,0" VerticalAlignment="Top" Height="35" Width="150"/>
+        <Label x:Name="yrawwww" Content="ответ уравнния 4" HorizontalAlignment="Left" Margin="492,203,0,0" VerticalAlignment="Top" Height="35" Width="150"/>
+
+    </Grid>
+</Window>
