@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\BNDProd2d\bin\Debug\BNDProd2d.exe.config
+C:\Users\Студент\source\repos\BNDProd2d\bin\Debug\BNDProd2d.exe
+C:\Users\Студент\source\repos\BNDProd2d\bin\Debug\BNDProd2d.pdb
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d_MarkupCompile.cache
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d_MarkupCompile.lref
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.g.resources
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.Properties.Resources.resources
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.exe
+C:\Users\Студент\source\repos\BNDProd2d\obj\Debug\BNDProd2d.pdb

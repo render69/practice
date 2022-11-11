@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\BNDProd_list\bin\Debug\BNDProd_list.exe.config
+C:\Users\Студент\source\repos\BNDProd_list\bin\Debug\BNDProd_list.exe
+C:\Users\Студент\source\repos\BNDProd_list\bin\Debug\BNDProd_list.pdb
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list_MarkupCompile.cache
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list_MarkupCompile.lref
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.g.resources
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.Properties.Resources.resources
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.exe
+C:\Users\Студент\source\repos\BNDProd_list\obj\Debug\BNDProd_list.pdb

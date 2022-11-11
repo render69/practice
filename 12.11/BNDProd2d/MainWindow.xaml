@@ -1,0 +1,47 @@
+﻿<Window x:Class="BNDProd2d.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BNDProd2d"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,10,0,0" TextWrapping="Wrap" Text="значение x = " VerticalAlignment="Top" Width="80"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,35,0,0" TextWrapping="Wrap" Text="значение a = " VerticalAlignment="Top" Width="80"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,60,0,0" TextWrapping="Wrap" Text="значение y = " VerticalAlignment="Top" Width="80"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,85,0,0" TextWrapping="Wrap" Text="значение b = " VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Txt_x_1" HorizontalAlignment="Left" Height="20" Margin="110,10,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <TextBox x:Name="Txt_a_1" HorizontalAlignment="Left" Height="20" Margin="110,35,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <TextBox x:Name="Txt_y_1" HorizontalAlignment="Left" Height="20" Margin="110,60,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <TextBox x:Name="Txt_b_1" HorizontalAlignment="Left" Height="20" Margin="110,85,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <Button x:Name="but" Content="Решить" HorizontalAlignment="Left" Height="45" Margin="160,10,0,0" VerticalAlignment="Top" Width="100" Click="but_Click"/>
+        <Label x:Name="outin" Content="знач." HorizontalAlignment="Left" Height="33" Margin="195,60,0,0" VerticalAlignment="Top" Width="65"/>
+        <TextBlock HorizontalAlignment="Left" Height="33" Margin="160,60,0,0" TextWrapping="Wrap" Text="Ответ" VerticalAlignment="Top" Width="35"/>
+        <Button x:Name="but_Copy" Content="Решить" HorizontalAlignment="Left" Height="45" Margin="160,145,0,0" VerticalAlignment="Top" Width="100" Click="but_Click_2"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,145,0,0" TextWrapping="Wrap" Text="значение x = " VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Txt_x_1_Copy" HorizontalAlignment="Left" Height="20" Margin="110,145,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <TextBox x:Name="Txt_a_1_Copy" HorizontalAlignment="Left" Height="20" Margin="110,170,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+        <Grid>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,10,0,0" TextWrapping="Wrap" Text="значение x = " VerticalAlignment="Top" Width="80"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,35,0,0" TextWrapping="Wrap" Text="значение a = " VerticalAlignment="Top" Width="80"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,60,0,0" TextWrapping="Wrap" Text="значение y = " VerticalAlignment="Top" Width="80"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,85,0,0" TextWrapping="Wrap" Text="значение b = " VerticalAlignment="Top" Width="80"/>
+            <TextBox x:Name="Txt_x_2" HorizontalAlignment="Left" Height="20" Margin="110,10,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <TextBox x:Name="Txt_a_2" HorizontalAlignment="Left" Height="20" Margin="110,35,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <TextBox x:Name="Txt_y_2" HorizontalAlignment="Left" Height="20" Margin="110,60,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <TextBox x:Name="Txt_b_2" HorizontalAlignment="Left" Height="20" Margin="110,85,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <Button x:Name="but1" Content="Решить" HorizontalAlignment="Left" Height="45" Margin="160,10,0,0" VerticalAlignment="Top" Width="100" Click="but_Click"/>
+            <Label x:Name="outin1" Content="знач." HorizontalAlignment="Left" Height="33" Margin="195,195,0,0" VerticalAlignment="Top" Width="65"/>
+            <TextBlock HorizontalAlignment="Left" Height="33" Margin="160,195,0,0" TextWrapping="Wrap" Text="Ответ" VerticalAlignment="Top" Width="35"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,145,0,0" TextWrapping="Wrap" Text="значение x = " VerticalAlignment="Top" Width="80"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,220,0,0" TextWrapping="Wrap" Text="значение c = " VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.675,-0.65"/>
+            <TextBlock HorizontalAlignment="Left" Height="20" Margin="22,195,0,0" TextWrapping="Wrap" Text="значение b = " VerticalAlignment="Top" Width="80"/>
+            <TextBox x:Name="Txt_x_1_Copy1" HorizontalAlignment="Left" Height="20" Margin="110,145,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <TextBox x:Name="Txt_c_1_Copy1" HorizontalAlignment="Left" Height="20" Margin="110,170,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+            <TextBox x:Name="Txt_b_1_Copy1" HorizontalAlignment="Left" Height="20" Margin="110,195,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="BNDProd_list.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BNDProd_list"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="listbox11" HorizontalAlignment="Left" Height="300" Margin="10,10,0,0" VerticalAlignment="Top" Width="300"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="337,10,0,0" TextWrapping="Wrap" Text="Ведите начальное значение" VerticalAlignment="Top" Width="200"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="337,60,0,0" TextWrapping="Wrap" Text="Ведите конечное значение" VerticalAlignment="Top" Width="200"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="337,110,0,0" TextWrapping="Wrap" Text="Ведите шаг" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="box1" HorizontalAlignment="Left" Height="20" Margin="337,35,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="box2" HorizontalAlignment="Left" Height="20" Margin="337,85,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="box3" HorizontalAlignment="Left" Height="20" Margin="337,135,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="200"/>
+        <Button Content="OK" HorizontalAlignment="Left" Height="50" Margin="337,260,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click"/>
+
+    </Grid>
+</Window>
