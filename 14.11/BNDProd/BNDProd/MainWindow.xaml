@@ -1,0 +1,15 @@
+﻿<Window x:Class="BNDProd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BNDProd"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="listbox11" HorizontalAlignment="Left" Height="300" Margin="10,10,0,0" VerticalAlignment="Top" Width="300" FontFamily="Courier New"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="337,35,0,0" TextWrapping="Wrap" Text="Отрезок от 2 до 12" VerticalAlignment="Top" Width="150"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="337,10,0,0" TextWrapping="Wrap" Text="Шаг равен 0.5" VerticalAlignment="Top" Width="150"/>
+        <Button Content="OK" HorizontalAlignment="Left" Height="50" Margin="337,260,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click"/>
+    </Grid>
+</Window>

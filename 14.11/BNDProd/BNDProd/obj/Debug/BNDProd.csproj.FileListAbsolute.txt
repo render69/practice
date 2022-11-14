@@ -1,0 +1,16 @@
+C:\Users\render\source\repos\BNDProd\BNDProd\bin\Debug\BNDProd.exe.config
+C:\Users\render\source\repos\BNDProd\BNDProd\bin\Debug\BNDProd.exe
+C:\Users\render\source\repos\BNDProd\BNDProd\bin\Debug\BNDProd.pdb
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.csproj.AssemblyReference.cache
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.csproj.SuggestedBindingRedirects.cache
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\MainWindow.g.cs
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\App.g.cs
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd_MarkupCompile.cache
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd_MarkupCompile.lref
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\MainWindow.baml
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.g.resources
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.Properties.Resources.resources
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.csproj.GenerateResource.cache
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.csproj.CoreCompileInputs.cache
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.exe
+C:\Users\render\source\repos\BNDProd\BNDProd\obj\Debug\BNDProd.pdb
