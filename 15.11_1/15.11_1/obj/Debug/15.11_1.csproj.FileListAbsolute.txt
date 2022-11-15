@@ -1,0 +1,16 @@
+C:\Users\render\source\repos\15.11_1\15.11_1\bin\Debug\15.11_1.exe.config
+C:\Users\render\source\repos\15.11_1\15.11_1\bin\Debug\15.11_1.exe
+C:\Users\render\source\repos\15.11_1\15.11_1\bin\Debug\15.11_1.pdb
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.csproj.AssemblyReference.cache
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\MainWindow.g.cs
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\App.g.cs
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1_MarkupCompile.cache
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1_MarkupCompile.lref
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\MainWindow.baml
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.g.resources
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\_15._11_1.Properties.Resources.resources
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.csproj.GenerateResource.cache
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.csproj.CoreCompileInputs.cache
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.exe
+C:\Users\render\source\repos\15.11_1\15.11_1\obj\Debug\15.11_1.pdb
