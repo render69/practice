@@ -1,0 +1,15 @@
+D:\projects\С#\fail\fail\bin\Debug\net6.0\fail.exe
+D:\projects\С#\fail\fail\bin\Debug\net6.0\fail.deps.json
+D:\projects\С#\fail\fail\bin\Debug\net6.0\fail.runtimeconfig.json
+D:\projects\С#\fail\fail\bin\Debug\net6.0\fail.dll
+D:\projects\С#\fail\fail\bin\Debug\net6.0\fail.pdb
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.csproj.AssemblyReference.cache
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.AssemblyInfoInputs.cache
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.AssemblyInfo.cs
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.csproj.CoreCompileInputs.cache
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.dll
+D:\projects\С#\fail\fail\obj\Debug\net6.0\refint\fail.dll
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.pdb
+D:\projects\С#\fail\fail\obj\Debug\net6.0\fail.genruntimeconfig.cache
+D:\projects\С#\fail\fail\obj\Debug\net6.0\ref\fail.dll
